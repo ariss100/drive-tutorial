@@ -44,7 +44,3 @@ yarn-error.log*
 
 # idea files
 .idea
-
-[push]
-    default = current
-    autoSetupRemote = true
